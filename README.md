@@ -1,16 +1,28 @@
 [![made-with-powershell](https://img.shields.io/badge/PowerShell-1f425f?logo=Powershell)](https://microsoft.com/PowerShell)
-![GitHub issues badge](https://img.shields.io/github/issues/marcelotm23/powershell-design-patterns)
-![GitHub forks badge](https://img.shields.io/github/forks/marcelotm23/powershell-design-patterns)
-![GitHub stars:	GitHub stars badge](https://img.shields.io/github/stars/marcelotm23/powershell-design-patterns)
-![GitHub license:	GitHub license badge](https://img.shields.io/github/license/marcelotm23/powershell-design-patterns)
-![Twitter:	Twitter badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmarcelotm23%2Fpowershell-design-patterns)
+[![GitHub issues badge](https://img.shields.io/github/issues/marcelotm23/powershell-design-patterns)](https://github.com/marcelotm23/powershell-design-patterns)
+[![GitHub forks badge](https://img.shields.io/github/forks/marcelotm23/powershell-design-patterns)](https://github.com/marcelotm23/powershell-design-patterns)
+[![GitHub stars:	GitHub stars badge](https://img.shields.io/github/stars/marcelotm23/powershell-design-patterns)](https://github.com/marcelotm23/powershell-design-patterns)
+[![GitHub license:	GitHub license badge](https://img.shields.io/github/license/marcelotm23/powershell-design-patterns)](LICENSE.md)
 
-# Powershell Design Patterns
+**_Social media:_**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF.svg?logo=LinkedIn&logoColor=black&style=social)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//github.com/marcelotm23/powershell-design-patterns&title=Powershell%20Design%20Patterns&summary=Design%20patterns%20implemented%20with%20PowerShell.&source=)
+[![Twitter:	Twitter badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmarcelotm23%2Fpowershell-design-patterns&style=social)](https://twitter.com/intent/tweet?text=PowerShell%20Design%20Patterns%0Ahttps%3A//github.com/marcelotm23/powershell-design-patterns)
+![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2019/marcelotm23/powershell-design-patterns?color=blueviolet&style=plastic)
+
+# PowerShell Design Patterns
 Design patterns implemented with PowerShell.
 
 ## Introduction
 
 In software engineering, a software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design. It is not a finished design that can be transformed directly into source or machine code. It is a description or template for how to solve a problem that can be used in many different situations. Design patterns are formalized best practices that the programmer can use to solve common problems when designing an application or system.
+
+## Design patterns
+<details>
+  <summary>Structural</summary>
+
+  * [Adapter](/Structural/Adapter)
+  
+</details>
 
 # How contribute?
 ## Contributing
