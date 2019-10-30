@@ -26,7 +26,7 @@ In software engineering, a software design pattern is a general, reusable soluti
 <details>
   <summary>Behavioral</summary>
 
-  * [Adapter](/Behavioral/Strategy)
+  * [Strategy](/Behavioral/Strategy)
   
 </details>
 
