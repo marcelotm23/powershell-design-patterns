@@ -7,7 +7,7 @@
 **_Social media:_**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF.svg?logo=LinkedIn&logoColor=black&style=social)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//github.com/marcelotm23/powershell-design-patterns&title=Powershell%20Design%20Patterns&summary=Design%20patterns%20implemented%20with%20PowerShell.&source=)
 [![Twitter:	Twitter badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmarcelotm23%2Fpowershell-design-patterns&style=social)](https://twitter.com/intent/tweet?text=PowerShell%20Design%20Patterns%0Ahttps%3A//github.com/marcelotm23/powershell-design-patterns)
-![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2019/marcelotm23/powershell-design-patterns?color=blueviolet&style=plastic)
+![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/marcelotm23/powershell-design-patterns?color=blueviolet&style=plastic)
 
 # PowerShell Design Patterns
 Design patterns implemented with PowerShell.
