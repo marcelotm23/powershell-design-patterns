@@ -32,7 +32,7 @@ In software engineering, a software design pattern is a general, reusable soluti
 <details>
   <summary>Creational</summary>
 
-  * [Abstract Factory](/Creational/Abstract Factory)
+  * [Abstract Factory](/Creational/Abstract%20Factory)
   
 </details>
 
@@ -56,7 +56,7 @@ To contribute follow the next steps:
             If includes design diagram, it will be awesome :smile:
 7. Commit your changes (`git commit -am 'Add some Singleton'`)
 8. Push to the branch (`git push origin creational/singleton`)
-9. Add to _Authors_ section in Repository readme.
+9. Add to _Contributors_ section in Repository readme.
 10. Make a [pull request](https://github.com/marcelotm23/powershell-design-patterns/compare). 
 
 ## Authors
