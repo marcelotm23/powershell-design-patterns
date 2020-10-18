@@ -7,7 +7,7 @@
 **_Social media:_**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF.svg?logo=LinkedIn&logoColor=black&style=social)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//github.com/marcelotm23/powershell-design-patterns&title=Powershell%20Design%20Patterns&summary=Design%20patterns%20implemented%20with%20PowerShell.&source=)
 [![Twitter:	Twitter badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmarcelotm23%2Fpowershell-design-patterns&style=social)](https://twitter.com/intent/tweet?text=PowerShell%20Design%20Patterns%0Ahttps%3A//github.com/marcelotm23/powershell-design-patterns)
-![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2019/marcelotm23/powershell-design-patterns?color=blueviolet&style=plastic)
+![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/marcelotm23/powershell-design-patterns?color=blueviolet&style=plastic)
 
 # PowerShell Design Patterns
 Design patterns implemented with PowerShell.
@@ -27,6 +27,12 @@ In software engineering, a software design pattern is a general, reusable soluti
   <summary>Behavioral</summary>
 
   * [Strategy](/Behavioral/Strategy)
+  
+</details>
+<details>
+  <summary>Creational</summary>
+
+  * [Abstract Factory](/Creational/Abstract%20Factory)
   
 </details>
 
@@ -50,11 +56,14 @@ To contribute follow the next steps:
             If includes design diagram, it will be awesome :smile:
 7. Commit your changes (`git commit -am 'Add some Singleton'`)
 8. Push to the branch (`git push origin creational/singleton`)
-9. Add to _Authors_ section in Repository readme.
+9. Add to _Contributors_ section in Repository readme.
 10. Make a [pull request](https://github.com/marcelotm23/powershell-design-patterns/compare). 
 
 ## Authors
 Marcelo Torrejón Manso - [@marcelotm23](https://github.com/marcelotm23) - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=LinkedIn&logoColor=white)](https://es.linkedin.com/in/marcelo-torrej%C3%B3n-manso-b45952160)
+
+## Contributors
+Lukas Dötlinger - [@doetlingerlukas](https://github.com/doetlingerlukas)
 
 ## License
 
