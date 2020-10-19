@@ -33,6 +33,7 @@ In software engineering, a software design pattern is a general, reusable soluti
   <summary>Creational</summary>
 
   * [Abstract Factory](/Creational/Abstract%20Factory)
+  * [Singleton](/Creational/Singleton)
   
 </details>
 
