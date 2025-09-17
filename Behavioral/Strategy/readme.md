@@ -104,3 +104,30 @@ Finally, the main code would look like this:
     AddGameConsole([XboxOne]::New()).
     Play()
 ```
+## Changes / Fixes Made
+The following corrections were applied to the original script:
+
+1. **Constructor names corrected**  
+   - `Copy()` constructors in `PlayStation4` and `XboxOne` classes were renamed to match the class names:
+     ```powershell
+     PlayStation4()
+     XboxOne()
+     ```
+
+2. **Fixed extra quotation mark**  
+   - In the `Game.Play()` method, the line:  
+     ```powershell
+     Write-Host "ERROR:$($_.Exception.Message)"
+     ```  
+     was corrected by removing the extra `")"`.
+
+3. **Fixed type of GameConsoles array**  
+   - Original declaration:  
+     ```powershell
+     hidden [Console[]] $GameConsoles = @()
+     ```  
+   - Corrected to:  
+     ```powershell
+     hidden [GameConsole[]] $GameConsoles = @()
+     ```  
+   This ensures proper type checking when adding consoles to a game.
