@@ -15,7 +15,7 @@ class GameConsole {
 # Concrete Strategies
 class PlayStation4 : GameConsole {
 
-    Copy () : base('PlayStation4') { }
+    PlayStation4() : base('PlayStation4') { }
 
     Play([Game]$g) {
 
@@ -25,7 +25,7 @@ class PlayStation4 : GameConsole {
 
 class XboxOne : GameConsole {
 
-    Copy () : base('XboxOne') { }
+    XboxOne() : base('XboxOne') { }
 
     Play([Game]$g) {
 
@@ -38,7 +38,7 @@ class Game {
     [string] $Name
 
     hidden [DateTime] $StartTime = [DateTime]::Now
-    hidden [Console[]] $GameConsoles = @()
+    hidden [GameConsole[]] $GameConsoles = @()
 
     Game ($Name) {
         $this.Name = $Name
@@ -60,7 +60,7 @@ class Game {
                 $_.Play($this)
             }
             catch {
-                Write-Host "ERROR:$($_.Exception.Message)")
+                Write-Host "ERROR:$($_.Exception.Message)"
                 break
             }
         }
