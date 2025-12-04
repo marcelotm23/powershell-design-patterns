@@ -65,6 +65,7 @@ Marcelo Torrejón Manso - [@marcelotm23](https://github.com/marcelotm23) - [![Li
 
 ## Contributors
 Lukas Dötlinger - [@doetlingerlukas](https://github.com/doetlingerlukas)
+Andy Wawa - [@Purclot](https://github.com/Purclot)
 
 ## License
 
